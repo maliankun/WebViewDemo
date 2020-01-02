@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_grey">#E0DEDB</color>
+    <color name="color_grey_bg">#EAE9E8</color>
+
+    <color name="color_ok_btn">#1B8DE4</color>
+    <color name="color_dot_line">#545850</color>
+
+</resources>

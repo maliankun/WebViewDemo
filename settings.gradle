@@ -1,0 +1,1 @@
+include ':app', ':topomodule', ':remotemodule', ':baidutest'

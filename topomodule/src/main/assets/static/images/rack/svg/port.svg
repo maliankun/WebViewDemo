@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="端口.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="-3.053571"
+     inkscape:cy="8.8354183"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <rect
+       style="opacity:0.12000002;fill:#0044aa;fill-opacity:1;stroke-width:0.19242424"
+       id="rect10"
+       width="4.2333331"
+       height="4.2333331"
+       x="2.1814859e-009"
+       y="292.77609"
+       ry="0.67863911" />
+    <g
+       id="g4535"
+       transform="matrix(0.61586214,0,0,0.61586214,0.32425118,114.2964)">
+      <rect
+         ry="0.84816027"
+         y="292.39337"
+         x="0.40632436"
+         height="1.6963205"
+         width="5.0081844"
+         id="rect4001"
+         style="opacity:0.997;fill:#4d4d4d;fill-opacity:1;stroke-width:0.30156806" />
+      <rect
+         style="opacity:0.997;fill:#d4aa00;fill-opacity:1;stroke-width:0.20413093"
+         id="rect4005"
+         width="1.3462861"
+         height="0.58897471"
+         x="0.7563588"
+         y="293.06656"
+         ry="0.29448736" />
+      <rect
+         ry="0.24264456"
+         y="293.11841"
+         x="0.82680386"
+         height="0.48528913"
+         width="1.2053957"
+         id="rect4003"
+         style="opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:0.17533027" />
+      <g
+         transform="matrix(0.58617702,0,0,0.58617702,5.8053274,120.94679)"
+         id="g4025">
+        <rect
+           style="opacity:0.997;fill:#d4aa00;fill-opacity:1;stroke-width:0.20207885"
+           id="rect4013"
+           width="1.1339285"
+           height="0.66145831"
+           x="-5.11449"
+           y="293.12573"
+           ry="0" />
+        <rect
+           style="opacity:0.997;fill:#d4aa00;fill-opacity:1;stroke-width:0.26458332"
+           id="rect4015"
+           width="2.5277159"
+           height="1.2047991"
+           x="-5.8113837"
+           y="293.57458" />
+      </g>
+      <g
+         style="fill:#333333"
+         transform="matrix(0.50346228,0,0,0.50346228,5.42918,145.26099)"
+         id="g4031">
+        <rect
+           ry="0"
+           y="293.12573"
+           x="-5.11449"
+           height="0.66145831"
+           width="1.1339285"
+           id="rect4027"
+           style="opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:0.20207885" />
+        <rect
+           y="293.57458"
+           x="-5.8113837"
+           height="1.2047991"
+           width="2.5277159"
+           id="rect4029"
+           style="opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:0.26458332" />
+      </g>
+      <ellipse
+         ry="0.36349723"
+         rx="0.35393152"
+         cy="293.37616"
+         cx="4.6106339"
+         id="path4055"
+         style="opacity:0.997;fill:#d4aa00;fill-opacity:1;stroke-width:0.21427205" />
+      <ellipse
+         style="opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:0.16779056"
+         id="ellipse4057"
+         cx="4.6106339"
+         cy="293.37616"
+         rx="0.27715406"
+         ry="0.28464469" />
+    </g>
+  </g>
+</svg>
